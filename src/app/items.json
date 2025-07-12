@@ -1,0 +1,350 @@
+[
+    {
+        "id": 1,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200550/items/oqbdvxxu9vcgopq3tdg1.jpg",
+        "title": "Aashirvaad Shudh Chakki Atta 1kg",
+        "description": "Experience the wholesome goodness of Aashirvaad Shudh Chakki Atta. Sourced from the finest wheat grains in Madhya Pradesh, this atta is made using traditional stone-grinding methods, similar to a 'chakki', ensuring all the nutritional elements of wheat are retained. Enjoy soft, fluffy rotis that are not only delicious but also packed with natural fiber and nutrients, making it a healthy choice for your everyday meals. This 1kg pack provides a consistent and high-quality flour for your culinary needs.",
+        "price": "447.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Wheat"
+        }
+    },
+    {
+        "id": 2,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200556/items/rthti9ntibaubybbw7nc.jpg",
+        "title": "Diabexy Sugar Control Atta LITE - 1kg",
+        "description": "Manage your blood sugar levels without compromising on taste with Diabexy Sugar Control Atta LITE. This 1kg, nuts-free atta is specifically formulated for diabetics and those following a keto diet. Made with a blend of low glycemic load ingredients like wheat, it helps in reducing glucose absorption. It's an excellent source of protein and fiber, promoting satiety and supporting a healthy digestive system, making it a smart choice for a balanced diet.",
+        "price": "350.55",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Keto",
+            "ingredients_or_speciality": "Wheat"
+        }
+    },
+    {
+        "id": 3,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200561/items/b97pav2ik7pks5xeixtc.jpg",
+        "title": "NutroActive Keto Atta Low Carb - 1kg",
+        "description": "Achieve your low-carb goals effortlessly with NutroActive Keto Atta. This 1kg extremely low-carb flour contains just 3g net carbs per roti, making it ideal for keto and weight loss diets. Crafted with key ingredients like peanuts, it provides a nutritious alternative to regular flour. It's easy to knead and roll into soft chapattis, allowing you to enjoy your favorite Indian breads guilt-free while adhering to a strict low-carb regimen.",
+        "price": "483.55",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Keto",
+            "ingredients_or_speciality": "Peanuts"
+        }
+    },
+    {
+        "id": 4,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200566/items/uiirhxaizlovklhm6kl6.jpg",
+        "title": "Fortune Refined Sugar - 5kg Pack",
+        "description": "Sweeten your life with Fortune Refined Sugar. This 5kg pack offers fine, 100% pure sugar, crafted through a meticulous \"No Sulphur\" refining process that eliminates human contact, ensuring the highest levels of hygiene. Its naturally white, sparkling crystals dissolve effortlessly, making it perfect for preparing a wide range of sweets, beverages, and culinary creations. While best enjoyed in moderation, it provides quick energy and is a staple for every Indian kitchen.",
+        "price": "260.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Sugar"
+        }
+    },
+    {
+        "id": 5,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200570/items/xrfzlf2waa6wxteqzk5e.jpg",
+        "title": "Diabexy Sugarfree Liquid Sweetener 30ml",
+        "description": "Enjoy sweetness without the guilt with Diabexy Sugarfree Liquid Sweetener. This 30ml bottle of liquid sweetener is specially formulated for diabetics and those on a keto diet. With a zero glycemic index and no aftertaste, it perfectly mimics the taste of regular sugar without causing blood sugar spikes. It's a versatile liquid sweetener suitable for sweetening hot and cold beverages like tea and coffee, and can also be used in cooking and baking.",
+        "price": "152.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Sugar-free"
+        }
+    },
+    {
+        "id": 6,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200576/items/h7bto7ltqoeighl8nhvc.jpg",
+        "title": "NutroActive Keto Zero Carb Sweetener 250gm",
+        "description": "Indulge in sweet treats while maintaining your keto lifestyle with NutroActive Keto Zero Carb Sweetener. This 250gm pack offers a 100% sugar-free alternative that's twice as sweet as regular sugar, meaning you only need half the quantity. Made from a blend of soluble fibers, it acts as a prebiotic, supporting gut health, and has a net zero carb impact. It's perfect for sweetening drinks, baking, and creating delicious low-carb desserts without affecting blood sugar levels.",
+        "price": "435.1",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Low Carb"
+        }
+    },
+    {
+        "id": 7,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200580/items/rypp6rmxntuv1btunu7l.jpg",
+        "title": "Farm Fresh Eggs - High Protein",
+        "description": "Boost your daily protein intake with Farm Fresh Eggs. These nutrient powerhouses are a rich source of high-quality protein, essential amino acids, and vital vitamins like A, D, E, and B12, along with choline and healthy fats. Perfect for muscle repair, brain health, and overall wellness, these eggs are versatile for breakfast, lunch, or dinner, offering a convenient and wholesome addition to any diet.",
+        "price": "249.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Non Vegetarian",
+            "ingredients_or_speciality": "high in protein"
+        }
+    },
+    {
+        "id": 8,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200585/items/cngba2szqif9qgezuvft.jpg",
+        "title": "Amul Salted Pasteurised Butter 500g",
+        "description": "Add a touch of rich, creamy flavor to your dishes with Amul Salted Pasteurised Butter. This 500g pack of dairy butter is pasteurised for safety and has a perfectly balanced salty taste that enhances everything from parathas to sandwiches and gravies. Its smooth texture makes it easy to spread at room temperature and firm when chilled, making it ideal for both cooking and baking.",
+        "price": "295.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Salted"
+        }
+    },
+    {
+        "id": 9,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200590/items/csh9ltxm4luyzneajdst.jpg",
+        "title": "Verka Pasteurised Table Butter 100g",
+        "description": "Discover the pure, unflavoured goodness of Verka Pasteurised Table Butter. This 100g pack provides a versatile and essential dairy product for your kitchen. Its simple, rich taste makes it perfect for spreading on toast, adding to scrambled eggs, or incorporating into various recipes where you desire a pure butter flavor without added salt or seasonings.",
+        "price": "60.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Unflavoured"
+        }
+    },
+    {
+        "id": 10,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200594/items/nrwwicoyo6x13cbabijd.jpg",
+        "title": "Weikfield Baking Powder 100g Jar",
+        "description": "Achieve perfect rise and texture in your baked goods with Weikfield Baking Powder. This 100g pack comes in a convenient, reusable poly jar, keeping the powder fresh and easily accessible. It's a reliable leavening agent for cakes, cookies, and other baked treats, ensuring consistent and excellent results every time. Suitable for vegetarian diets, it's a must-have for any baking enthusiast.",
+        "price": "36.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Vegetarian"
+        }
+    },
+    {
+        "id": 11,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200599/items/z5r5tkuvon7k7xm3kiaw.jpg",
+        "title": "Urban Platter Aluminium-Free Baking Powder",
+        "description": "Bake with confidence using Urban Platter Aluminium-Free Baking Powder. This high-quality baking powder is not only aluminium-free but also gluten-free and vegan, catering to various dietary preferences and needs. It's perfect for those seeking a purer alternative without compromising on the effectiveness of a leavening agent. Ensure your baked goods rise beautifully and are free from common allergens.",
+        "price": "185.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Gluten Free, Vegan"
+        }
+    },
+    {
+        "id": 12,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200604/items/gklsjcttmvmrjvglh6af.jpg",
+        "title": "Weikfield Baking Soda 100gm Jar",
+        "description": "A versatile essential for your kitchen, Weikfield Baking Soda comes in a convenient 100gm jar. This pure baking soda is a multi-purpose ingredient, crucial for leavening in baking, neutralizing odors, and even as a gentle cleaning agent. It's a vegetarian-friendly product, ensuring your culinary creations and household needs are met with a high-quality ingredient.",
+        "price": "149.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Vegetarian"
+        }
+    },
+    {
+        "id": 13,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200609/items/xfv8bc4mgexd0biqoxql.jpg",
+        "title": "Urban Platter Pure Baking Soda",
+        "description": "Stock up on Urban Platter Pure Baking Soda for all your household and culinary applications. This 250g pack of high-quality baking soda is a fundamental ingredient for baking, providing excellent leavening for a light and airy texture. Beyond baking, it's also a natural deodorizer and cleaning agent, making it an indispensable item for every home.",
+        "price": "250.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Vegetarian"
+        }
+    },
+    {
+        "id": 14,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200613/items/s487gk0xqvbuugxaw108.jpg",
+        "title": "Amul Taaza Homogenised Toned Milk 1L Carton",
+        "description": "Enjoy fresh and wholesome goodness with Amul Taaza Homogenised Toned Milk. This 1-liter carton contains pasteurised and homogenized toned milk, ensuring a consistent texture and taste. With 3.0% fat and 8.5% SNF, it's a balanced choice for direct consumption, making tea or coffee, or preparing various dairy products like curd and buttermilk. It's hygienically processed and packed for your convenience and health.",
+        "price": "74.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Dairy-Allergen"
+        }
+    },
+    {
+        "id": 15,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200618/items/xhmnzbeblftjegsel0f8.jpg",
+        "title": "Urban Platter Dairy-Free Almond Milk",
+        "description": "Discover a delicious plant-based alternative with Urban Platter Almond Milk. This dairy-free and lactose-free beverage is perfect for those with dietary restrictions or who prefer plant-based options. Enjoy it in your coffee, cereals, smoothies, or as a refreshing drink on its own. It's a light and flavorful way to incorporate plant-based nutrition into your diet.",
+        "price": "228.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Plant Based",
+            "ingredients_or_speciality": "Dairy Free, Lactose Free"
+        }
+    },
+    {
+        "id": 16,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200625/items/iev0utnnomzdjlctf3op.jpg",
+        "title": "D'lecta Low Fat Dairy Cream 200ml",
+        "description": "Add richness and a creamy texture to your favorite dishes with D'lecta Low Fat Dairy Cream. This 200ml pack of pasteurised cream is a versatile ingredient for both sweet and savory applications. It's perfect for creating velvety soups, luxurious sauces, and delectable desserts. Its low-fat content makes it a lighter option without compromising on the indulgent creaminess you desire.",
+        "price": "59.0",
+        "category": "Food",
+        "miscellaneous": {
+            "diet_type": "Vegetarian",
+            "ingredients_or_speciality": "Low Fat"
+        }
+    },
+    {
+        "id": 101,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200629/items/yqkv0rbdv3tjjnaol3wy.jpg",
+        "title": "BOROSIL Helena Floral Opalware Cups & Saucers (Set of 12)",
+        "description": "Elevate your tea or coffee experience with the Larah by BOROSIL Helena Opalware Cup and Saucer Set. This set of 12 pieces features a charming floral theme in a beautiful Helena color palette. Crafted from toughened opal glass, these cups and saucers are extra strong, chip-resistant, and scratch-resistant for carefree durability. They are also dishwasher-safe, freezer-safe, and microwave-safe, making them highly convenient for daily use and special occasions. Being 100% bone-ash free, they are also a vegetarian-friendly choice.",
+        "price": "552.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "Helena",
+            "special_feature": "Dishwasher-Safe, Freezer Safe, Microwave Safe, Chip-Resistant"
+        }
+    },
+    {
+        "id": 102,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200634/items/tjcmpribbn8qooedoph2.jpg",
+        "title": "BOROSIL Silk Blue Eve Opalware Cups & Saucers (Set of 12)",
+        "description": "Experience elegance with the Larah by BOROSIL Silk Series Blue Eve Opalware Cup and Saucer Set. This set of 12 pcs, with cups holding 145 ml, showcases a delicate floral theme on a pristine white background. Made from toughened opal glass, these cups and saucers are designed for everyday durability. They are microwave and dishwasher safe, offering ultimate convenience for modern living. Their chip and scratch resistance ensure they maintain their pristine look over time.",
+        "price": "561.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "White",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 103,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200639/items/zqydxurevpfv6cz7gmpo.jpg",
+        "title": "BOROSIL Tulip Opalware Cups & Saucers (Set of 12)",
+        "description": "Brighten your table with the Larah by BOROSIL Tulip Opalware Cup and Saucer Set. This set of 12 pieces features a refreshing floral and plant-themed design. The 140 ml cups are crafted from toughened opal glass, offering exceptional strength and durability. They are dishwasher-safe, freezer-safe, microwave-safe, and chip-resistant, making them ideal for daily use and gifting. Plus, they are 100% bone-ash free, making them a vegetarian and hygienic choice.",
+        "price": "589.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Plants, Floral",
+            "colour": "White",
+            "special_feature": "Dishwasher-Safe, Freezer Safe, Microwave Safe, Chip-Resistant"
+        }
+    },
+    {
+        "id": 104,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200643/items/phfnyb85ko2tlrngeu4w.jpg",
+        "title": "BOROSIL Ingot Animal Opalware Cups & Saucers (Set of 8)",
+        "description": "Add a playful touch to your beverages with the Larah by Borosil Ingot Opalware Cup and Saucer Set. This set of 8 pieces features a delightful animal-themed design in a vibrant multicolor finish. Each cup holds 140 ml and is made from toughened opal glass for enhanced durability. These cups and saucers are microwave and dishwasher safe, ensuring ease of use and cleaning, perfect for everyday enjoyment.",
+        "price": "605.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Animals",
+            "colour": "Multicolor",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 105,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200649/items/jokps35adrcvnbkygcw9.jpg",
+        "title": "KITTENS Ceramic Tea Set - 6 Hand-Painted Cups (180ml)",
+        "description": "Cozy up with the KITTENS Handmade Ceramic Tea Cup & Saucer Set. This set of 6, with 180ml capacity cups, features a charming hand-painted winter and holiday-themed design in a rich blue color. Crafted from high-quality ceramic, these pieces have a non-slip base and are dishwasher, microwave, and freezer safe. They are also heat and scratch resistant, ensuring long-lasting beauty and functionality for your tea time.",
+        "price": "1139.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Winter, Holiday, Birthday, Hand Painted",
+            "colour": "Blue",
+            "special_feature": "Dishwasher/Microwave/Freezer safe, Non-Slip, Heat Resistant, Scratch Resistant"
+        }
+    },
+    {
+        "id": 106,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200654/items/a7nqcttd67wpsb7ukott.jpg",
+        "title": "ExclusiveLane 'Ocean Ripples' Ceramic Cups & Saucers (Set of 6)",
+        "description": "Immerse yourself in tranquility with the ExclusiveLane 'Ocean Ripples' Ceramic Cups and Saucers Set. This beautifully crafted set includes 6 tea cups and matching saucers, all featuring a mesmerizing dark blue tone with an 'Ocean Ripples' theme. Each cup holds 120ml. These ceramic pieces are both dishwasher and microwave safe, combining artistic design with practical everyday use, perfect for a serene tea or coffee experience.",
+        "price": "1699.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Ocean Ripples",
+            "colour": "Dark Blue",
+            "special_feature": "microwave & dishwasher safe."
+        }
+    },
+    {
+        "id": 107,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200659/items/kms77mnb8sembctasctf.jpg",
+        "title": "GOLDEN QUEEN'S Floral Cup & Saucer Set (Handcrafted)",
+        "description": "Host with elegance using the GOLDEN QUEEN'S Cup & Saucer Set. This exquisite set is handcrafted in India and inspired by beautiful floral motifs in a vibrant multicolor palette. Each cup is ideal for tea or coffee lovers, offering a touch of traditional artistry to your serving. These pieces are microwave safe, combining timeless beauty with modern convenience for your gatherings.",
+        "price": "1721.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "Multicolor",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 108,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200664/items/n48u4sbkogn7bumfazlw.jpg",
+        "title": "ExclusiveLane Ceramic Tea Set - 6 Hand-Painted Cups",
+        "description": "Sip in style with the ExclusiveLane Ceramic Tea Cups and Saucers Set. This set of 6 includes hand-painted 'Badamwari Bagheecha' themed cups and saucers. The soft light yellow and white (or light blue and navy blue) finish with a floral theme adds a delicate charm to your tea time. With a capacity of 120 ml, these cups are also microwave safe, offering both artistic beauty and practical functionality.",
+        "price": "1649.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "Light Yellow & White, Light Blue & Navy Blue",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 109,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200669/items/vgzcjo0771ufnohbukce.jpg",
+        "title": "Praahi Floral Ceramic Tea Set with Kettle & Tray",
+        "description": "Complete your tea ritual with the Praahi Lifestyle Tea Cup Set with Kettle & Serving Tray. This exquisite set features a hand-painted blue floral design on high-quality ceramic. It includes 4 cups (150ml each), a kettle (450ml), and a serving tray, making it a complete and elegant solution for serving hot beverages. The set is microwave safe, combining traditional artistry with modern convenience, perfect for daily use or gifting.",
+        "price": "1290.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "Dark Blue,White",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 110,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200675/items/qzxa7gqtsayevocq8bze.jpg",
+        "title": "Vigneto Floral Vintage Cup & Saucer Set (Set of 6)",
+        "description": "Embrace a timeless aesthetic with the Vigneto Floral Flower Bed Cup and Saucer Set. Part of the vintage collection, this set features a classic floral \"Flower Bed\" theme on a pristine white background. This set of 6 cups and 6 saucers is designed for tea, coffee, or hot drinks, bringing a nostalgic charm to your table. These pieces are microwave safe, blending vintage appeal with contemporary usability.",
+        "price": "5599.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "White",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 111,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200679/items/n3f0foh9aojs3murd7do.jpg",
+        "title": "GOLDEN QUEEN'S Gold Rim Floral Cup & Saucer Set",
+        "description": "Indulge in luxury with the GOLDEN QUEEN'S Cup & Saucer Set. Handcrafted in India, this set features a sophisticated design with a 24-carat gold rim and exquisite sapphire blue floral detailing. The combination of blue and white colors, along with the intricate floral theme, makes this set a stunning addition for hosting or for enjoying your daily tea/coffee. These cups are microwave safe, ensuring convenience alongside opulence.",
+        "price": "1749.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "Blue,White",
+            "special_feature": "Microwave Safe"
+        }
+    },
+    {
+        "id": 112,
+        "image": "https://res.cloudinary.com/dpkmmwyg4/image/upload/v1752200685/items/yevdmbzvd3lvu2p1qcyj.jpg",
+        "title": "Spaces Inside Floral Ceramic Tea Cups with Saucers (Set of 12)",
+        "description": "Enhance your tea gatherings with the Spaces Inside Golden Queen's Cup and Saucer Set. This premium handcrafted ceramic tea set includes 12 pieces with a beautiful floral theme on a white base. Designed for durability and ease of use, these cups and saucers are dishwasher-safe, microwave-safe, and freezer-safe. They are also non-slip, heat resistant, and scratch resistant, ensuring a long-lasting and enjoyable tea experience.",
+        "price": "1790.0",
+        "category": "Home & Kitchen",
+        "miscellaneous": {
+            "theme": "Floral",
+            "colour": "White Base",
+            "special_feature": "Dishwasher/Microwave/Freezer safe, Non-Slip, Heat Resistant, Scratch Resistant"
+        }
+    }
+]
