@@ -1,11 +1,56 @@
 "use client";
-import Image from 'next/image';
-import { ArrowRight, AlertTriangle } from 'lucide-react';
-import { useState } from 'react';
+import Image from "next/image";
+import { ArrowRight, AlertTriangle } from "lucide-react";
+import { useState } from "react";
+import items from "../../app/items.json";
+
+
+const warningsData = [
+  {
+    productId: 4,
+    title: "Health Alert",
+    message:
+      "This product contains high sugar content which may not be suitable for your diabetic condition.",
+    alternative: {
+      title: items[4].title,
+      image: items[4].image,
+      price: items[4].price,
+    },
+  },
+  {
+    productId: 8,
+    title: "Health Warning",
+    message:
+      "This product contains high sodium content which may not be suitable for your BP condition.",
+    alternative: {
+      title: items[8].title,
+      image: items[8].image,
+      price: items[8].price,
+    },
+  },
+  {
+    productId: 10,
+    title: "Preference Alert",
+    message:
+      "This product conatins gluten and mil based content.",
+    alternative: {
+      title: items[10].title,
+      image: items[10].image,
+      price: items[10].price,
+    },
+  },
+];
 
 export const ProductCard = ({ product, isSelected, onClick }) => {
   const [showTooltip, setShowTooltip] = useState(false);
-  const hasWarning = product.id === 4;
+
+  // Find warning data for this product (if any)
+  const warning = warningsData.find(
+    (warn) => warn.productId === product.id
+  );
+
+  const hasWarning = !!warning;
+
   const formatCurrency = (value) => {
     return new Intl.NumberFormat("en-IN", {
       style: "currency",
@@ -17,8 +62,8 @@ export const ProductCard = ({ product, isSelected, onClick }) => {
   return (
     <div
       className={`flex items-center gap-3 p-3 rounded-xl border-2 cursor-pointer transition-all duration-300 ${isSelected
-          ? 'border-neutral-500 bg-neutral-200'
-          : 'border-gray-200 bg-white hover:border-gray-300 hover:scale-102 hover:shadow-sm'
+          ? "border-neutral-500 bg-neutral-200"
+          : "border-gray-200 bg-white hover:border-gray-300 hover:scale-102 hover:shadow-sm"
         }`}
       onClick={() => onClick(product)}
     >
@@ -51,11 +96,11 @@ export const ProductCard = ({ product, isSelected, onClick }) => {
               <div className="flex items-center gap-2 mb-2">
                 <AlertTriangle className="w-4 h-4 text-red-500" />
                 <span className="text-sm font-medium text-red-700">
-                  Health Alert
+                  {warning.title}
                 </span>
               </div>
               <p className="text-xs text-gray-700 mb-3">
-                This product contains high sugar content which may not be suitable for your diabetic condition.
+                {warning.message}
               </p>
 
               <div className="bg-red-50 border border-red-200 rounded-lg p-2 mb-3">
@@ -71,9 +116,7 @@ export const ProductCard = ({ product, isSelected, onClick }) => {
                     <p className="text-xs font-medium text-red-700 truncate">
                       {product.title}
                     </p>
-                    <p className="text-xs text-red-600">
-                      Not recommended
-                    </p>
+                    <p className="text-xs text-red-600">Not recommended</p>
                   </div>
                 </div>
               </div>
@@ -84,15 +127,19 @@ export const ProductCard = ({ product, isSelected, onClick }) => {
                 </p>
                 <div className="bg-green-50 border border-green-200 rounded-lg p-2">
                   <div className="flex items-center gap-2">
-                    <div className="w-6 h-6 bg-green-100 rounded flex items-center justify-center">
-                      <span className="text-xs">🥬</span>
-                    </div>
+                    <Image
+                      src={warning.alternative.image}
+                      alt={warning.alternative.title}
+                      width={24}
+                      height={24}
+                      className="w-6 h-6 object-cover rounded"
+                    />
                     <div className="flex-1">
                       <p className="text-xs font-medium text-green-700">
-                        Stevia Natural Sweetener
+                        {warning.alternative.title}
                       </p>
                       <p className="text-xs text-green-600">
-                        ₹180
+                        {formatCurrency(warning.alternative.price)}
                       </p>
                     </div>
                   </div>

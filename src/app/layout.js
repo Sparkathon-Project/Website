@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Snap Cart",
+  title: "SnapCart",
   description:
     "Capture what you see. Shop what you love. Walmart Lens lets you snap, search, and shop in an instant.",
   icons: {

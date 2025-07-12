@@ -8,7 +8,7 @@ export default function Navbar() {
             <div className="flex justify-between items-center mx-auto p-4 max-w-screen-xl">
                 <div className="flex items-center space-x-3 rtl:space-x-reverse">
                     <Image width={200} height={200} src="/logo.png" className="w-full h-8 object-center object-cover" alt="Logo" />
-                    <span className="self-center font-semibold text-yellow-300 text-2xl whitespace-nowrap">Snap Cart</span>
+                    <span className="self-center font-semibold text-yellow-300 text-2xl whitespace-nowrap">SnapCart</span>
                 </div>
             </div>
         </nav>

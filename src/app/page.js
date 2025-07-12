@@ -29,7 +29,7 @@ const ChatbotInterface = () => {
   const [chatHistory, setChatHistory] = useState([
     {
       query: "What are the ingredients I'll need to make this cake?",
-      productIds: [3, 6, 7, 9, 13],
+      productIds: [0, 3, 6, 7, 11, 13, 9, 15],
       selectedProductId: items[3].id,
     },
   ]);
@@ -62,10 +62,10 @@ const ChatbotInterface = () => {
   const handleSend = useCallback(() => {
     if (!inputQuery.trim()) return;
 
-    setIsProcessing(true); // Start processing
+    setIsProcessing(true);
 
     setTimeout(() => {
-      const newIds = [16, 17, 19, 20, 21];
+      const newIds = [16, 17, 18, 22, 23, 24, 25, 26];
       const newEntry = {
         query: inputQuery.trim(),
         productIds: newIds,
@@ -73,7 +73,7 @@ const ChatbotInterface = () => {
       };
       setChatHistory((prev) => [...prev, newEntry]);
       setInputQuery("");
-      setIsProcessing(false); // Stop processing
+      setIsProcessing(false);
     }, 7530);
   }, [inputQuery]);
 
