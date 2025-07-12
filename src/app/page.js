@@ -30,7 +30,7 @@ const ChatbotInterface = () => {
     {
       query: "What are the ingredients I'll need to make this cake?",
       productIds: [0, 3, 6, 7, 11, 13, 9, 15],
-      selectedProductId: items[3].id,
+      selectedProductId: items[0].id,
     },
   ]);
   const [inputQuery, setInputQuery] = useState("");

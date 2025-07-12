@@ -26,7 +26,7 @@ export const ProductDetails = ({ product }) => (
     <div className="p-6">
       <div className="flex justify-between mb-4">
         <div>
-          <h2 className="text-lg font-bold text-gray-900">{product.title}</h2>
+          <h2 className="text-lg font-bold text-gray-900 font-space-grotesk">{product.title}</h2>
           <span className="font-bold text-blue-600">{formatCurrency(product.price)}</span>
         </div>
         <button className="cursor-pointer bg-blue-500 text-white px-4 rounded-3xl hover:bg-blue-600 transition">
@@ -34,11 +34,11 @@ export const ProductDetails = ({ product }) => (
         </button>
       </div>
       <div className="mb-4">
-        <h3 className="text-lg font-semibold">About this item</h3>
+        <h3 className="text-lg font-bold font-space-grotesk">About this item</h3>
         <p className="text-gray-700">{product.description}</p>
       </div>
       <div>
-        <h3 className="text-lg font-semibold">More details</h3>
+        <h3 className="text-lg font-bold font-space-grotesk">More details</h3>
         <KeyValueList data={product.miscellaneous} />
       </div>
     </div>

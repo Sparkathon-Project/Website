@@ -76,7 +76,7 @@ const ProfilePage = () => {
                 {/* Profile Card */}
                 <div className="bg-white rounded-lg shadow-md p-6">
                     <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-6">
-                        <h2 className="text-xl font-semibold text-gray-800 mb-4 md:mb-0">Profile</h2>
+                        <h2 className="text-xl font-bold text-gray-800 mb-4 md:mb-0 font-space-grotesk">Profile</h2>
                         <button
                             onClick={() => setIsEditing(!isEditing)}
                             className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 transition-colors self-start cursor-pointer "
@@ -171,7 +171,7 @@ const ProfilePage = () => {
                 {/* Dietary Preferences */}
                 <div className="bg-white rounded-lg shadow-md p-6">
                     <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-6">
-                        <h2 className="text-xl font-semibold text-gray-800">Dietary Preferences</h2>
+                        <h2 className="text-xl font-semibold text-gray-800 font-space-grotesk">Dietary Preferences</h2>
                         <button
                             onClick={() => setShowAddPreference(!showAddPreference)}
                             className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-full hover:bg-blue-700 transition-colors self-start mt-4 md:mt-0 cursor-pointer"
